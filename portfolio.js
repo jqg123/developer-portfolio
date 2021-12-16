@@ -4,7 +4,7 @@ export const greetings = {
 	name: "John Guan",
 	title: "Hi all, I'm John",
 	description:
-		"A passionate Front End Web Developer and React App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
+		"A passionate Front End Web Developer and React App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Angularjs and some other cool libraries and frameworks and Cross Platform Mobile Apps.",
 	resumeLink: "",
 };
 
